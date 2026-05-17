@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 40" fill="none">
+  <!-- Mark icon (left) -->
+  <rect width="40" height="40" rx="10" fill="#0F172A"/>
+  <!-- Left arm of V -->
+  <path d="M8 10 L17 28" stroke="#F59E0B" stroke-width="4.5" stroke-linecap="round"/>
+  <!-- Right arm of V -->
+  <path d="M20 34 L32 10" stroke="#F59E0B" stroke-width="4.5" stroke-linecap="round"/>
+  <!-- Base bar (anvil) -->
+  <line x1="11" y1="28" x2="24" y2="28" stroke="#F59E0B" stroke-width="3.5" stroke-linecap="round"/>
+  <!-- Spark dot -->
+  <circle cx="32" cy="10" r="2.5" fill="#FCD34D"/>
+
+  <!-- Wordmark -->
+  <!-- "Vita" in slate -->
+  <text x="50" y="27" font-family="Inter, -apple-system, system-ui, sans-serif" font-weight="700" font-size="18" letter-spacing="-0.3" fill="#0F172A">Vita</text>
+  <!-- "Forge" in amber -->
+  <text x="85" y="27" font-family="Inter, -apple-system, system-ui, sans-serif" font-weight="700" font-size="18" letter-spacing="-0.3" fill="#F59E0B">Forge</text>
+</svg>
